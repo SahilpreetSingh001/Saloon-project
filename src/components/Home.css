@@ -1,0 +1,23 @@
+/* Text sliding in from left */
+.slide-in-left {
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: transform 1s ease-out, opacity 1s ease-out;
+  }
+  
+  .slide-in-left.show {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
+  .slide-in-right {
+    opacity: 0;
+    transform: translateX(100%);
+    transition: transform 1s ease-out, opacity 1s ease-out;
+  }
+  
+  .slide-in-right.show {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
