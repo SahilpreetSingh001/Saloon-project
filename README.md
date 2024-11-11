@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Salon_Website
 # Saloon-project
 # Saloon-project
+# Saloon-project
