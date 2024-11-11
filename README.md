@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Saloon-project
 # Saloon-project
 # Saloon-project
+# Saloon-project
